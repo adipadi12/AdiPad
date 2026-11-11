@@ -171,7 +171,7 @@ int main(int argc, char **argv) {
   textbuf = new Fl_Text_Buffer;
   global_editor = nullptr;
 
-  Fl_Window *window = new Fl_Window(800, 600, "Notepad");
+  Fl_Window *window = new Fl_Window(800, 600, "AdiPad");
 
   global_editor = new Fl_Text_Editor(0, 0, 800, 600);
   global_editor->buffer(textbuf);
