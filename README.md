@@ -1,5 +1,5 @@
 # AdiPad
-##How to run
+## How to run
 1. Clone the repo
 2. ./hello
 3. it runs
